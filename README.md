@@ -56,6 +56,11 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
 ## Limitations & Next steps 
 
+The dataset is heavily white-based, it only can present the white-community not for the entire group in north america
+the dataset is collected in 1997, the level of influence for each feature maybe changed during these days.
+
+More research and analysis on exploratory data analysis should be conducted to explore more detailed relationships (for example, classification analysis between income level and each occupation, regression analysis between age and capital-gain/loss etc)
+
 ### For further information
 
 For any additional questions, contact Email: Talented225@gmail.com
