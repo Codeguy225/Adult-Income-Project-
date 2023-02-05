@@ -2,7 +2,13 @@
 
 ## About Dataset 
 
-An individual's annual incom results from various factors. Intuitvely, it is influenced by the individual's education level, age, gender, occupation, and etc. 
+The income dataset was extracted from 1994 U.S. Census database. 
+
+An individual's annual incom results from various factors. Intuitvely, it is influenced by the individual's education level, age, gender, occupation, and etc.
+
+## Objective of the Project 
+
+The goal of this machine learning project is to predict whether a person makes over 50K a year or not given their demographic variation. To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result.
 
 ### Fields
 
