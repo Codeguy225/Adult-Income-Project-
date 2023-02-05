@@ -31,3 +31,23 @@ http://www.cs.toronto.edu/~delve/data/adult/desc.html
 The detailed description on the dataset can be found in the original UCI documentation
 
 http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
+
+## Methods
+
+## Results 
+
+### Model 1
+
+### Model 2 
+
+## Describe final model 
+
+## Model Performance 
+
+## Recommendations:
+
+## Limitations & Next steps 
+
+### For further information
+
+For any additional questions, contact Email: Talented225@gmail.com
