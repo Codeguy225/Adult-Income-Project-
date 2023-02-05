@@ -20,4 +20,14 @@ We can explore possibility in predicting income level based on the individual's 
 
 ### Acknowledgements 
 
-**Author**: Derek Overton
+**Author:** Derek Overton
+
+### Data:
+
+This dataset named "adult income" is found in the UCI machine learning repository
+
+http://www.cs.toronto.edu/~delve/data/adult/desc.html
+
+The detailed description on the dataset can be found in the original UCI documentation
+
+http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
