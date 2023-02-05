@@ -10,7 +10,7 @@ An individual's annual incom results from various factors. Intuitvely, it is inf
 
 The goal of this machine learning project is to predict whether a person makes over 50K a year or not given their demographic variation. To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result.
 
-After understanding the problem statement, which is To calculate if the individual earns more than 50,000 dollars annually or less than 50,000 dollars annually, I make an assumption: the currency is in US dollars, and the period is one year
+After understanding the problem statement, which is To calculate if the individual earns more than 50K dollars annually or less than 50K dollars annually, I make an assumption: the currency is in US dollars, and the period is one year
 
 ### Fields
 
