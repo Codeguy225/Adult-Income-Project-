@@ -7,4 +7,7 @@ An individual's annual incom results from various factors. Intuitvely, it is inf
 ### Fields
 
 The dataset contains 16 columns
-jfkldajskfljlasdjljfa
+
+Target filed: Income 
+
+-- The income is divided into two classes: <=50K and > 50K
