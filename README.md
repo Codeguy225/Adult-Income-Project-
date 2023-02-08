@@ -42,11 +42,9 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
 ## Methods
 
+Before splitting the data, we will drop and duplicates, and check for any inconsistancies. This will help prepare our dat for machine learning. Then We identified the features (X) and the target (y). Then we performed a validation split. Next we created a preprocessing object to prepare the dataset for Machine Learning. We imputed missing values using the Simple Imputer after the validation split to minimize the chance of data leakage.
+
 ## Results 
-
-### Model 1
-
-### Model 2 
 
 ## Describe final model 
 
