@@ -44,20 +44,18 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
 Before splitting the data, we will drop and duplicates, and check for any inconsistancies. This will help prepare our dat for machine learning. Then We identified the features (X) and the target (y). Then we performed a validation split. Next we created a preprocessing object to prepare the dataset for Machine Learning. We imputed missing values using the Simple Imputer after the validation split to minimize the chance of data leakage.
 
-## Results 
+## Description of final model 
 
-## Describe final model 
-
-## Model Performance 
+The Model I ended up using is Regression Forest Model. I used Gridsearch CV to find the best parameters to tune My best model for predicting Income greater than 50K. My best model ended up being a Regression Forest Model with an accuracty of 86%.  
 
 ## Recommendations:
+
+More research and analysis on exploratory data analysis should be conducted to explore more detailed relationships (for example, classification analysis between income level and each occupation, regression analysis between age and capital-gain/loss etc).  My recommendation would be to get a more current dataset from which to build a model from that would be more reflective of today's society.  
 
 ## Limitations & Next steps 
 
 The dataset is heavily white-based, it only can present the white-community not for the entire group in north america
-the dataset is collected in 1994, the level of influence for each feature maybe changed during these days.
-
-More research and analysis on exploratory data analysis should be conducted to explore more detailed relationships (for example, classification analysis between income level and each occupation, regression analysis between age and capital-gain/loss etc)
+the dataset is collected in 1994, the level of influence for each feature maybe changed since that time.
 
 ### For further information
 
